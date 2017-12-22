@@ -27,6 +27,18 @@ char* paths_concat(const char *a, const char *b)
 
     return res;
 }
+char* string_concat(const char *a, const char *b)
+{
+    char *res;
+    if ((res = malloc(strlen(a)+strlen(b)+2 * sizeof(char))) == NULL)
+        return res;
+    res[0] = '\0';
+
+    strcat(res, a);
+    strcat(res, b);
+
+    return res;
+}
 
 int copy_file(char *old_filename, char  *new_filename) {
 		FILE  *ptr_old, *ptr_new;
