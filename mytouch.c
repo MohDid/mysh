@@ -4,9 +4,9 @@
 		mytouch MonFichier
 
 Auths:
-    DIDOUH Mohamed
-    ISHIMWE Blaise
-    TOKAM George
+    D M
+    I B
+    T G
 */
 
 
