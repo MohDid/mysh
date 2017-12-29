@@ -4,9 +4,9 @@ Elle peut prendre des paramètres comme backup ou verbose pour afficher des indi
     Exemple: mycp -v MonFichier CheminDeDestination
 
 Auths:
-    DIDOUH Mohamed
-    ISHIMWE Blaise
-    TOKAM George
+    D M
+    I B
+    T G
 */
 
 #include <ctype.h>
