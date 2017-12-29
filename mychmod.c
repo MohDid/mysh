@@ -2,9 +2,9 @@
 "mychmod" est une commande qui mime "chmod" et permet de changer les permissions d'un fichier avec l'option de rajouter une extension à celui-ci.
     Exemple: mychmod -ce 0777 exe MonFichier
 Auths:
-    DIDOUH Mohamed
-    ISHIMWE Blaise
-    TOKAM George
+    D M
+    I B
+    T G
 */
 
 #include <errno.h>
