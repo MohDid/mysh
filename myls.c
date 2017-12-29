@@ -3,9 +3,9 @@
     Exemple: myls -a
 
 Auths:
-    DIDOUH Mohamed
-    ISHIMWE Blaise
-    TOKAM Georgey
+    D M
+    I B
+    T G
 */
 
 #include <ctype.h>
