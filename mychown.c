@@ -4,9 +4,9 @@ Elle peut prendre un paramètre c qui permet d'énoncer le changement effectué
     Exemple: mychmod -c NouveauProprio MonFichier
 
 Auths:
-    DIDOUH Mohamed
-    ISHIMWE Blaise
-    TOKAM George
+    D M
+    I B
+    T G
 */
 
 #include <errno.h>
